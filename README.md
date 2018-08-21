@@ -1,1 +1,1 @@
-# DragoonAD-UM1GRUB-repo
+For MSSQL Server Samples
